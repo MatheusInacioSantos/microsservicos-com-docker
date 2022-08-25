@@ -20,16 +20,16 @@ Pré-requisitos: conhecimentos básicos em Linux, Docker e AWS.
 
 
 
-[x] Criando container MySQL
+- [x] Criando container MySQL
 
-[x] Aplicando teste de estresse no container
+- [x] Aplicando teste de estresse no container
 
-[x] Criando um cluster Swarm
+- [x] Criando um cluster Swarm
 
-[x] Criando serviço no cluster
+- [x] Criando serviço no cluster
 
-[x] Replicando um volume dentro do cluster
+- [x] Replicando um volume dentro do cluster
 
-[x] Criando proxy com NGINX
+- [x] Criando proxy com NGINX
 
-[x] Aplicando teste de estresse no cluster
+- [x] Aplicando teste de estresse no cluster
